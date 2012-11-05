@@ -1,2 +1,0 @@
-print("s" is String) // expect: true
-print("s" class == String) // expect: true

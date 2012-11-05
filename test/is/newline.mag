@@ -1,2 +1,0 @@
-print(false is
-    Bool) // expect: true

@@ -1,4 +1,0 @@
-// expect exit 3
-def foo() bar
-foo()
-var bar = "123"

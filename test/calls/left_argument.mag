@@ -1,8 +1,0 @@
-// Method with left parameter.
-def (n) foo
-    print("left")
-    print(n)
-end
-
-"arg" foo // expect: left
-          // expect: arg

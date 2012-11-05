@@ -1,8 +1,0 @@
-import spec.specify
-
-specifyMethod("(this is Bool) not") with
-    it should("negate") with
-        not(true) shouldEqual(false)
-        not(false) shouldEqual(true)
-    end
-end

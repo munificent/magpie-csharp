@@ -1,5 +1,0 @@
-import spec.language.import_test_c
-
-def overridable("d")
-    "in d"
-end

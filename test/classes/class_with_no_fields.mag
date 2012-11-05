@@ -1,4 +1,0 @@
-defclass Foo
-end
-
-print(Foo) // expect: Foo

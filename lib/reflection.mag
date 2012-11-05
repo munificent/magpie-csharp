@@ -1,5 +1,0 @@
-def showDoc
-    /// Displays the documentation for the given argument.
-end
-
-import classfile:com.stuffwithstuff.magpie.intrinsic.ReflectionMethods

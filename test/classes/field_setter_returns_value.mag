@@ -1,7 +1,0 @@
-defclass Foo
-    var a
-    var b
-end
-
-var foo = Foo new(a: 1, b: 2)
-print(foo a = 3) // expect: 3

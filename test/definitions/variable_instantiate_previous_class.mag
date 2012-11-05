@@ -1,5 +1,0 @@
-defclass Foo
-end
-
-var a = Foo new
-print(a is Foo) // expect: true

@@ -1,5 +1,0 @@
-// Two variables in the same scope.
-do
-    val a = "first"
-    val a = "second" // expect error
-end
